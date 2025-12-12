@@ -133,6 +133,3 @@ This project aggregates data from multiple sources to provide comprehensive insi
 
 **Developer:** Sharoobini
 *Final Year Project - AI Powered Guide for Sustainable Tourism Prediction*
-
-```
-```
