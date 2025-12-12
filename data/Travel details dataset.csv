@@ -1,0 +1,117 @@
+﻿Trip ID,Destination,Start date,End date,Duration (days),Traveler name,Traveler age,Traveler gender,Traveler nationality,Accommodation type,Accommodation cost,Transportation type,Transportation cost
+140,"Sigiriya, Sri Lanka",1/10/2024,1/17/2024,7,Liam Wilson,29,Male,British,Resort,900 USD,Plane,800 USD
+141,"Ella, Sri Lanka",2/5/2024,2/12/2024,7,Sophie Martin,26,Female,French,Guesthouse,400 USD,Train,50 USD
+142,"Galle, Sri Lanka",3/15/2024,3/22/2024,7,Hiroshi Tanaka,34,Male,Japanese,Hotel,1100 USD,Plane,700 USD
+143,"Kandy, Sri Lanka",4/10/2024,4/16/2024,6,Emma Schneider,31,Female,German,Hotel,600 USD,Car,200 USD
+144,"Colombo, Sri Lanka",5/20/2024,5/25/2024,5,Rajesh Patel,40,Male,Indian,Hotel,500 USD,Plane,300 USD
+145,"Yala, Sri Lanka",6/5/2024,6/12/2024,7,Sarah Jenkins,35,Female,Australian,Resort,1500 USD,Plane,900 USD
+146,"Nuwara Eliya, Sri Lanka",7/15/2024,7/21/2024,6,Chen Wei,28,Male,Chinese,Airbnb,500 USD,Train,60 USD
+147,"Mirissa, Sri Lanka",8/1/2024,8/8/2024,7,Jessica Moore,24,Female,American,Hostel,300 USD,Plane,1000 USD
+148,"Anuradhapura, Sri Lanka",9/10/2024,9/16/2024,6,David Kim,45,Male,South Korean,Hotel,700 USD,Car,150 USD
+149,"Trincomalee, Sri Lanka",5/5/2024,5/12/2024,7,Anna Petrova,30,Female,Russian,Resort,1200 USD,Plane,850 USD
+150,"Jaffna, Sri Lanka",10/20/2024,10/27/2024,7,Kumar Velu,38,Male,Malaysian,Guesthouse,350 USD,Train,40 USD
+151,"Polonnaruwa, Sri Lanka",11/15/2024,11/21/2024,6,Alice Brown,50,Female,Canadian,Hotel,800 USD,Plane,1100 USD
+152,"Hikkaduwa, Sri Lanka",12/1/2024,12/10/2024,9,Tom Hanks,27,Male,American,Airbnb,600 USD,Bus,50 USD
+153,"Arugam Bay, Sri Lanka",6/20/2024,6/30/2024,10,Mark Johnson,33,Male,British,Hostel,400 USD,Car,200 USD
+154,"Bentota, Sri Lanka",1/5/2025,1/12/2025,7,Linda Green,42,Female,Australian,Resort,1800 USD,Plane,900 USD
+155,"Dambulla, Sri Lanka",2/10/2024,2/15/2024,5,Oliver Smith,32,Male,British,Hotel,600 USD,Car,150 USD
+156,"Negombo, Sri Lanka",2/12/2024,2/14/2024,2,Yuki Tanaka,28,Female,Japanese,Hotel,300 USD,Taxi,40 USD
+157,"Udawalawe, Sri Lanka",2/18/2024,2/21/2024,3,Hans Muller,45,Male,German,Glamping,500 USD,Van,100 USD
+158,"Unawatuna, Sri Lanka",3/1/2024,3/8/2024,7,Chloe Dubois,26,Female,French,Guesthouse,450 USD,TukTuk,30 USD
+159,"Pasikudah, Sri Lanka",3/15/2024,3/22/2024,7,Arjun Kapoor,35,Male,Indian,Resort,1200 USD,Plane,600 USD
+160,"Wilpattu, Sri Lanka",4/5/2024,4/9/2024,4,Sarah Johnson,30,Female,American,Safari Lodge,800 USD,Jeep,200 USD
+161,"Kitulgala, Sri Lanka",4/12/2024,4/15/2024,3,Lars Jensen,29,Male,Danish,Eco-Lodge,350 USD,Bus,20 USD
+162,"Kalpitiya, Sri Lanka",5/1/2024,5/6/2024,5,Maria Garcia,33,Female,Spanish,Resort,700 USD,Car,120 USD
+163,"Batticaloa, Sri Lanka",5/10/2024,5/15/2024,5,Wei Zhang,40,Male,Chinese,Hotel,500 USD,Train,40 USD
+164,"Mannar, Sri Lanka",6/1/2024,6/4/2024,3,Fatima Ahmed,36,Female,Emirati,Guesthouse,300 USD,Car,150 USD
+165,"Haputale, Sri Lanka",6/10/2024,6/14/2024,4,James Wilson,50,Male,Australian,Bungalow,600 USD,Train,15 USD
+166,"Tangalle, Sri Lanka",7/1/2024,7/8/2024,7,Elena Rossi,27,Female,Italian,Villa,900 USD,Car,100 USD
+167,"Matara, Sri Lanka",7/15/2024,7/18/2024,3,Kim Min-jun,25,Male,South Korean,Hostel,150 USD,Bus,10 USD
+168,"Sigiriya, Sri Lanka",8/2/2024,8/5/2024,3,Emma Brown,31,Female,Canadian,Hotel,400 USD,TukTuk,25 USD
+169,"Kandy, Sri Lanka",8/10/2024,8/15/2024,5,Rajesh Kumar,42,Male,Indian,Homestay,250 USD,Train,12 USD
+170,"Ella, Sri Lanka",8/20/2024,8/25/2024,5,Sophie Weber,24,Female,Swiss,Hostel,200 USD,Train,10 USD
+171,"Galle, Sri Lanka",9/1/2024,9/5/2024,4,Lucas Martin,34,Male,French,Boutique Hotel,800 USD,Car,80 USD
+172,"Colombo, Sri Lanka",9/10/2024,9/13/2024,3,David Miller,39,Male,American,Hotel,600 USD,Uber,50 USD
+173,"Nuara Eliya, Sri Lanka",9/20/2024,9/24/2024,4,Chen Li,29,Female,Chinese,Hotel,500 USD,Car,90 USD
+174,"Yala, Sri Lanka",10/1/2024,10/4/2024,3,Oleg Petrov,45,Male,Russian,Camping,400 USD,Jeep,150 USD
+175,"Mirissa, Sri Lanka",10/10/2024,10/15/2024,5,Isabella Silva,28,Female,Brazilian,Airbnb,450 USD,Bus,20 USD
+176,"Arugam Bay, Sri Lanka",10/20/2024,10/28/2024,8,Jack Thompson,26,Male,British,Hostel,300 USD,Bus,30 USD
+177,"Anuradhapura, Sri Lanka",11/1/2024,11/4/2024,3,Sven Johansson,37,Male,Swedish,Hotel,350 USD,Car,100 USD
+178,"Polonnaruwa, Sri Lanka",11/6/2024,11/9/2024,3,Amara Singh,30,Female,Indian,Guesthouse,200 USD,Bicycle,15 USD
+179,"Trincomalee, Sri Lanka",11/15/2024,11/20/2024,5,George Davies,41,Male,British,Resort,900 USD,Plane,500 USD
+180,"Jaffna, Sri Lanka",12/1/2024,12/5/2024,4,Priya Rajan,33,Female,Malaysian,Hotel,400 USD,Train,25 USD
+181,"Bentota, Sri Lanka",12/10/2024,12/17/2024,7,Klaus Wagner,55,Male,German,Resort,1500 USD,Van,80 USD
+182,"Hikkaduwa, Sri Lanka",12/20/2024,12/27/2024,7,Natalie White,29,Female,Australian,Airbnb,700 USD,Car,70 USD
+183,"Negombo, Sri Lanka",1/2/2025,1/5/2025,3,Hiroshi Sato,31,Male,Japanese,Hotel,400 USD,Taxi,30 USD
+184,"Dambulla, Sri Lanka",1/10/2025,1/13/2025,3,Marie Dupont,27,Female,French,Hotel,350 USD,Bus,15 USD
+185,"Ella, Sri Lanka",1/20/2025,1/25/2025,5,Liam O'Connor,30,Male,Irish,Homestay,250 USD,Train,12 USD
+186,"Kandy, Sri Lanka",2/1/2025,2/5/2025,4,Zhang Wei,36,Male,Chinese,Hotel,500 USD,Car,90 USD
+187,"Sigiriya, Sri Lanka",2/10/2025,2/13/2025,3,Emily Clark,28,Female,American,Resort,600 USD,TukTuk,20 USD
+188,"Galle, Sri Lanka",2/20/2025,2/25/2025,5,Matteo Ricci,34,Male,Italian,Villa,1000 USD,Car,80 USD
+189,"Colombo, Sri Lanka",3/1/2025,3/4/2025,3,Sofia Kowalski,32,Female,Polish,Hotel,550 USD,Uber,40 USD
+190,"Nuwara Eliya, Sri Lanka",3/10/2025,3/14/2025,4,Ahmed Al-Fayed,40,Male,Saudi,Bungalow,800 USD,Van,120 USD
+191,"Yala, Sri Lanka",3/20/2025,3/23/2025,3,Jessica Hall,29,Female,British,Safari Lodge,900 USD,Jeep,180 USD
+192,"Mirissa, Sri Lanka",4/1/2025,4/6/2025,5,Carlos Gomez,31,Male,Spanish,Guesthouse,350 USD,Bus,20 USD
+193,"Unawatuna, Sri Lanka",4/10/2025,4/15/2025,5,Lena Fischer,26,Female,German,Hostel,200 USD,TukTuk,15 USD
+194,"Tangalle, Sri Lanka",4/20/2025,4/25/2025,5,Ben Thompson,33,Male,Australian,Resort,1100 USD,Car,100 USD
+195,"Batticaloa, Sri Lanka",5/1/2025,5/5/2025,4,Ravi Patel,38,Male,Indian,Hotel,400 USD,Train,30 USD
+196,"Arugam Bay, Sri Lanka",5/15/2025,5/22/2025,7,Alice Cooper,25,Female,Canadian,Hostel,350 USD,Bus,35 USD
+197,"Trincomalee, Sri Lanka",6/1/2025,6/6/2025,5,Ivan Volkov,35,Male,Russian,Resort,1000 USD,Plane,550 USD
+198,"Jaffna, Sri Lanka",6/15/2025,6/19/2025,4,Mei Ling,30,Female,Singaporean,Hotel,450 USD,Train,25 USD
+199,"Polonnaruwa, Sri Lanka",7/1/2025,7/4/2025,3,John Wright,45,Male,British,Hotel,400 USD,Bicycle,10 USD
+200,"Anuradhapura, Sri Lanka",7/10/2025,7/14/2025,4,Sara Lee,29,Female,South Korean,Guesthouse,300 USD,Car,110 USD
+201,"Wilpattu, Sri Lanka",7/20/2025,7/24/2025,4,Tom Baker,36,Male,American,Camping,500 USD,Jeep,200 USD
+202,"Kalpitiya, Sri Lanka",8/1/2025,8/5/2025,4,Nina Schmidt,31,Female,German,Resort,800 USD,Kitesurf,150 USD
+203,"Mannar, Sri Lanka",8/10/2025,8/13/2025,3,Ali Hassan,39,Male,Qatari,Hotel,450 USD,Car,140 USD
+204,"Pasikudah, Sri Lanka",8/20/2025,8/25/2025,5,Vikram Singh,34,Male,Indian,Resort,1100 USD,Plane,600 USD
+205,"Haputale, Sri Lanka",9/1/2025,9/4/2025,3,Eva Green,27,Female,British,Guesthouse,250 USD,Train,15 USD
+206,"Ella, Sri Lanka",9/10/2025,9/15/2025,5,Ryan Murphy,29,Male,American,Hostel,200 USD,Scooter,40 USD
+207,"Kandy, Sri Lanka",9/20/2025,9/24/2025,4,Liu Yang,32,Female,Chinese,Hotel,500 USD,Car,85 USD
+208,"Sigiriya, Sri Lanka",10/1/2025,10/4/2025,3,Markus Weber,40,Male,Austrian,Resort,700 USD,Car,90 USD
+209,"Dambulla, Sri Lanka",10/10/2025,10/12/2025,2,Sophie Dubois,25,Female,French,Guesthouse,150 USD,Bus,10 USD
+210,"Habarana, Sri Lanka",10/15/2025,10/18/2025,3,Kenji Yamamoto,33,Male,Japanese,Eco-Lodge,400 USD,Car,70 USD
+211,"Matale, Sri Lanka",10/20/2025,10/22/2025,2,Priya Sharma,28,Female,Indian,Homestay,100 USD,TukTuk,20 USD
+212,"Knuckles, Sri Lanka",11/1/2025,11/4/2025,3,David Jones,35,Male,Welsh,Camping,250 USD,Hiking,0 USD
+213,"Sinharaja, Sri Lanka",11/10/2025,11/13/2025,3,Anna Kowalczyk,30,Female,Polish,Eco-Lodge,300 USD,Van,60 USD
+214,"Deniyaya, Sri Lanka",11/15/2025,11/18/2025,3,Luis Rodriguez,37,Male,Spanish,Guesthouse,200 USD,Bus,15 USD
+215,"Weligama, Sri Lanka",11/25/2025,11/30/2025,5,Sarah Connor,26,Female,American,Surf Camp,500 USD,TukTuk,30 USD
+216,"Midigama, Sri Lanka",12/1/2025,12/6/2025,5,Jack Black,29,Male,Australian,Hostel,250 USD,Scooter,50 USD
+217,"Ahangama, Sri Lanka",12/10/2025,12/15/2025,5,Emma Stone,31,Female,British,Villa,800 USD,Car,60 USD
+218,"Koggala, Sri Lanka",12/20/2025,12/23/2025,3,Jean-Luc Picard,50,Male,French,Resort,600 USD,TukTuk,20 USD
+219,"Talpe, Sri Lanka",1/5/2026,1/10/2026,5,Olga Ivanova,34,Female,Russian,Villa,1200 USD,Car,70 USD
+220,"Ambalangoda, Sri Lanka",1/15/2026,1/18/2026,3,Chen Wei,28,Male,Chinese,Hotel,300 USD,Train,10 USD
+221,"Beruwala, Sri Lanka",1/25/2026,1/30/2026,5,Fatima Al-Sayed,36,Female,Kuwaiti,Resort,1000 USD,Car,90 USD
+222,"Wadduwa, Sri Lanka",2/1/2026,2/4/2026,3,John Smith,42,Male,British,Hotel,500 USD,Train,15 USD
+223,"Panadura, Sri Lanka",2/10/2026,2/12/2026,2,Kamal Perera,30,Male,Sri Lankan,Guesthouse,100 USD,Bus,5 USD
+224,"Mount Lavinia, Sri Lanka",2/15/2026,2/18/2026,3,Alice Wonderland,27,Female,Australian,Hotel,400 USD,Uber,20 USD
+225,"Kelaniya, Sri Lanka",2/20/2026,2/21/2026,1,Bimal Roy,35,Male,Indian,Homestay,50 USD,TukTuk,10 USD
+226,"Ragama, Sri Lanka",2/25/2026,2/26/2026,1,Susan Boyle,50,Female,Scottish,Guesthouse,60 USD,Train,5 USD
+227,"Gampaha, Sri Lanka",3/1/2026,3/3/2026,2,Nimali Silva,29,Female,Sri Lankan,Home,0 USD,Car,20 USD
+228,"Kurunegala, Sri Lanka",3/10/2026,3/12/2026,2,Mohamed Rizvi,33,Male,Sri Lankan,Hotel,150 USD,Bus,10 USD
+229,"Yapahuwa, Sri Lanka",3/15/2026,3/16/2026,1,Lara Croft,30,Female,British,Guesthouse,40 USD,TukTuk,15 USD
+230,"Mihintale, Sri Lanka",3/20/2026,3/21/2026,1,Saman Kumara,40,Male,Sri Lankan,Rest House,30 USD,Bus,10 USD
+231,"Ritigala, Sri Lanka",3/25/2026,3/26/2026,1,Indy Jones,45,Male,American,Camping,80 USD,Jeep,50 USD
+232,"Minneriya, Sri Lanka",4/1/2026,4/3/2026,2,Eleanor Rigby,60,Female,British,Resort,400 USD,Jeep,100 USD
+233,"Kaudulla, Sri Lanka",4/5/2026,4/7/2026,2,Paul McCartney,62,Male,British,Safari Lodge,500 USD,Jeep,100 USD
+234,"Wasgamuwa, Sri Lanka",4/10/2026,4/13/2026,3,Ringo Starr,65,Male,British,Camping,300 USD,Jeep,120 USD
+235,"Mahiyanganaya, Sri Lanka",4/15/2026,4/17/2026,2,George Harrison,58,Male,British,Guesthouse,100 USD,Bus,20 USD
+236,"Badulla, Sri Lanka",4/20/2026,4/23/2026,3,Freddie Mercury,45,Male,British,Hotel,250 USD,Train,15 USD
+237,"Bandarawela, Sri Lanka",4/25/2026,4/28/2026,3,Brian May,50,Male,British,Bungalow,300 USD,Car,40 USD
+238,"Diyatalawa, Sri Lanka",5/1/2026,5/3/2026,2,Roger Taylor,48,Male,British,Holiday Home,200 USD,Train,10 USD
+239,"Belihuloya, Sri Lanka",5/5/2026,5/7/2026,2,John Deacon,46,Male,British,Eco-Lodge,180 USD,Bus,15 USD
+240,"Ratnapura, Sri Lanka",5/10/2026,5/12/2026,2,Gem Dealer,40,Male,Thai,Hotel,300 USD,Car,50 USD
+241,"Embilipitiya, Sri Lanka",5/15/2026,5/17/2026,2,Farmer Joe,55,Male,Sri Lankan,Guesthouse,50 USD,Bus,5 USD
+242,"Hambantota, Sri Lanka",5/20/2026,5/23/2026,3,Port Worker,35,Male,Chinese,Hotel,400 USD,Car,30 USD
+243,"Tissamaharama, Sri Lanka",5/25/2026,5/27/2026,2,Bird Watcher,42,Female,Dutch,Guesthouse,120 USD,Jeep,60 USD
+244,"Kataragama, Sri Lanka",6/1/2026,6/2/2026,1,Pilgrim Dev,50,Male,Indian,Rest House,30 USD,Bus,10 USD
+245,"Buttala, Sri Lanka",6/5/2026,6/7/2026,2,Nature Lover,29,Female,Swedish,Camping,80 USD,Bus,10 USD
+246,"Monaragala, Sri Lanka",6/10/2026,6/12/2026,2,Rural Explorer,33,Male,French,Homestay,60 USD,TukTuk,20 USD
+247,"Gal Oya, Sri Lanka",6/15/2026,6/18/2026,3,Boat Man,45,Male,Sri Lankan,Lodge,200 USD,Boat,50 USD
+248,"Ampara, Sri Lanka",6/20/2026,6/22/2026,2,Surfer Dude,24,Male,American,Guesthouse,80 USD,Bus,15 USD
+249,"Pottuvil, Sri Lanka",6/25/2026,6/30/2026,5,Yoga Girl,26,Female,German,Cabana,300 USD,TukTuk,20 USD
+250,"Panama, Sri Lanka",7/1/2026,7/3/2026,2,Lagoon Explorer,31,Male,Italian,Homestay,70 USD,Scooter,15 USD
+251,"Kumana, Sri Lanka",7/5/2026,7/7/2026,2,Wildlife Photog,40,Male,British,Camping,150 USD,Jeep,100 USD
+252,"Lahugala, Sri Lanka",7/10/2026,7/11/2026,1,Elephant Fan,35,Female,Canadian,Guesthouse,40 USD,TukTuk,10 USD
+253,"Siyambalanduwa, Sri Lanka",7/15/2026,7/16/2026,1,Transit Traveler,28,Male,Australian,Rest House,20 USD,Bus,5 USD
+254,"Wellawaya, Sri Lanka",7/20/2026,7/22/2026,2,Waterfall Hunter,25,Female,New Zealander,Hostel,50 USD,Scooter,10 USD
+255,"Koslanda, Sri Lanka",7/25/2026,7/27/2026,2,Retreat Seeker,45,Female,British,Wellness Resort,600 USD,Car,50 USD

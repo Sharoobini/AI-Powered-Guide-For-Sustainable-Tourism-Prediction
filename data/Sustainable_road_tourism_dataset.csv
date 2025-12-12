@@ -1,0 +1,62 @@
+Tourist_ID,Travel_Date,Origin_Country,Destination,Road_Conditions,Traffic_Congestion_Level,Travel_Mode,Sustainability_Score,Electric_Vehicle_Usage,Carbon_Emissions,Sustainability_Target
+TID_SL_0,2022-04-14,Sri Lanka,Mountain Highway,Poor,Medium,Bus,0.552310123,0,385.1200192,0
+TID_SL_1,2023-12-20,Sri Lanka,Coastal Road,Good,High,Car,0.610293847,0,290.4418293,0
+TID_SL_2,2024-01-15,Sri Lanka,National Park Road,Poor,Low,Car,0.720019283,0,245.8817263,0
+TID_SL_3,2021-08-05,Sri Lanka,City Scenic Route,Moderate,High,Bus,0.490182736,0,412.3391002,0
+TID_SL_4,2023-03-11,Sri Lanka,Coastal Road,Good,Medium,Electric Car,0.910283746,1,88.1209384,1
+TID_SL_5,2020-11-28,Sri Lanka,Mountain Highway,Moderate,Low,Bicycle,0.965501928,0,45.2019283,1
+TID_SL_6,2025-02-04,Sri Lanka,City Scenic Route,Good,High,Car,0.589100283,0,310.5510029,0
+TID_SL_7,2022-07-19,Sri Lanka,National Park Road,Poor,Medium,Car,0.681192837,0,270.9918273,0
+TID_SL_8,2024-05-12,Sri Lanka,Coastal Road,Moderate,High,Bus,0.530019283,0,395.1102938,0
+TID_SL_9,2021-02-04,Sri Lanka,Mountain Highway,Poor,Low,Bus,0.581920019,0,360.7719200,0
+TID_SL_10,2023-09-25,Sri Lanka,City Scenic Route,Good,Medium,Electric Car,0.881920384,1,102.3391029,1
+TID_SL_11,2020-05-18,Sri Lanka,Coastal Road,Good,Low,Bicycle,0.940119283,0,55.1102938,1
+TID_SL_12,2024-08-14,Sri Lanka,Mountain Highway,Moderate,High,Car,0.601928374,0,325.8810029,0
+TID_SL_13,2022-12-25,Sri Lanka,National Park Road,Poor,High,Car,0.590019283,0,340.1192837,0
+TID_SL_14,2023-01-10,Sri Lanka,Coastal Road,Moderate,Medium,Bus,0.650192837,0,315.4419200,0
+TID_SL_15,2021-11-15,Sri Lanka,City Scenic Route,Poor,High,Bus,0.450192837,0,450.9910029,0
+TID_SL_16,2025-03-02,Sri Lanka,Mountain Highway,Good,Medium,Electric Car,0.850192837,1,115.8819200,1
+TID_SL_17,2022-06-08,Sri Lanka,National Park Road,Moderate,Low,Car,0.780192837,0,210.5519200,1
+TID_SL_18,2020-03-20,Sri Lanka,Coastal Road,Poor,Medium,Bicycle,0.820192837,0,65.9910029,1
+TID_SL_19,2024-04-13,Sri Lanka,City Scenic Route,Good,Low,Electric Car,0.920192837,1,75.2210029,1
+TID_SL_20,2023-10-05,Sri Lanka,Mountain Highway,Poor,High,Bus,0.510192837,0,405.1102938,0
+TID_SL_21,2021-09-12,Sri Lanka,Coastal Road,Good,High,Car,0.630192837,0,285.4419200,0
+TID_SL_22,2022-02-28,Sri Lanka,National Park Road,Poor,Medium,Car,0.660192837,0,265.8810029,0
+TID_SL_23,2025-01-25,Sri Lanka,Mountain Highway,Moderate,Medium,Bus,0.620192837,0,355.7719200,0
+TID_SL_24,2020-08-17,Sri Lanka,City Scenic Route,Poor,High,Car,0.540192837,0,330.1102938,0
+TID_SL_25,2023-06-30,Sri Lanka,Coastal Road,Moderate,Low,Bicycle,0.890192837,0,50.3391029,1
+TID_SL_26,2024-11-11,Sri Lanka,Mountain Highway,Good,High,Electric Car,0.830192837,1,120.4419200,1
+TID_SL_27,2021-04-22,Sri Lanka,National Park Road,Moderate,Low,Car,0.760192837,0,205.9910029,1
+TID_SL_28,2022-10-09,Sri Lanka,Coastal Road,Good,High,Bus,0.560192837,0,390.5519200,0
+TID_SL_29,2023-07-04,Sri Lanka,City Scenic Route,Good,Medium,Electric Car,0.950192837,1,60.1102938,1
+TID_SL_30,2020-12-14,Sri Lanka,Mountain Highway,Poor,Medium,Car,0.640192837,0,295.8810029,0
+TID_SL_31,2025-02-18,Sri Lanka,National Park Road,Good,High,Car,0.690192837,0,255.4419200,0
+TID_SL_32,2021-06-25,Sri Lanka,Coastal Road,Moderate,Low,Bus,0.710192837,0,230.7719200,1
+TID_SL_33,2024-09-08,Sri Lanka,City Scenic Route,Poor,Medium,Bicycle,0.790192837,0,70.3391029,1
+TID_SL_34,2022-05-01,Sri Lanka,Mountain Highway,Good,High,Car,0.610192837,0,305.1102938,0
+TID_SL_35,2023-11-20,Sri Lanka,National Park Road,Poor,Low,Electric Car,0.860192837,1,95.5519200,1
+TID_SL_36,2020-01-30,Sri Lanka,Coastal Road,Poor,High,Bus,0.480192837,0,425.8810029,0
+TID_SL_37,2024-03-15,Sri Lanka,City Scenic Route,Moderate,Low,Car,0.800192837,0,180.4419200,1
+TID_SL_38,2021-10-28,Sri Lanka,Mountain Highway,Moderate,Medium,Bus,0.590192837,0,370.7719200,0
+TID_SL_39,2022-09-02,Sri Lanka,Coastal Road,Good,Low,Electric Car,0.930192837,1,80.3391029,1
+TID_SL_40,2025-01-05,Sri Lanka,National Park Road,Moderate,High,Car,0.650192837,0,280.1102938,0
+TID_SL_41,2023-04-18,Sri Lanka,City Scenic Route,Good,High,Bus,0.570192837,0,385.5519200,0
+TID_SL_42,2020-07-22,Sri Lanka,Mountain Highway,Poor,Low,Bicycle,0.870192837,0,58.8810029,1
+TID_SL_43,2024-12-30,Sri Lanka,Coastal Road,Moderate,Medium,Car,0.700192837,0,250.4419200,1
+TID_SL_44,2021-03-08,Sri Lanka,National Park Road,Poor,High,Bus,0.520192837,0,415.7719200,0
+TID_SL_45,2022-11-12,Sri Lanka,City Scenic Route,Poor,Low,Electric Car,0.840192837,1,110.3391029,1
+TID_SL_46,2023-08-25,Sri Lanka,Mountain Highway,Good,Medium,Car,0.730192837,0,240.1102938,1
+TID_SL_47,2025-03-10,Sri Lanka,Coastal Road,Poor,High,Bicycle,0.770192837,0,85.5519200,1
+TID_SL_48,2020-06-15,Sri Lanka,National Park Road,Moderate,Low,Bus,0.670192837,0,260.8810029,0
+TID_SL_49,2024-02-20,Sri Lanka,City Scenic Route,Good,High,Car,0.620192837,0,300.4419200,0
+TID_SL_50,2022-03-31,Sri Lanka,Mountain Highway,Poor,Medium,Electric Car,0.810192837,1,130.7719200,1
+TID_SL_51,2023-05-15,Sri Lanka,Coastal Road,Moderate,Low,Car,0.880192837,0,160.3391029,1
+TID_SL_52,2021-12-01,Sri Lanka,National Park Road,Good,High,Bus,0.550192837,0,435.1102938,0
+TID_SL_53,2024-10-10,Sri Lanka,City Scenic Route,Poor,Medium,Car,0.600192837,0,318.5519200,0
+TID_SL_54,2020-09-05,Sri Lanka,Mountain Highway,Moderate,High,Bicycle,0.740192837,0,92.8810029,1
+TID_SL_55,2025-01-12,Sri Lanka,Coastal Road,Good,Low,Bus,0.750192837,0,220.4419200,1
+TID_SL_56,2022-08-20,Sri Lanka,National Park Road,Poor,Medium,Electric Car,0.790192837,1,145.7719200,1
+TID_SL_57,2023-02-14,Sri Lanka,City Scenic Route,Good,High,Bicycle,0.900192837,0,48.3391029,1
+TID_SL_58,2021-05-28,Sri Lanka,Mountain Highway,Good,Low,Car,0.820192837,0,195.1102938,1
+TID_SL_59,2024-07-03,Sri Lanka,Coastal Road,Poor,High,Bus,0.500192837,0,440.5519200,0
+TID_SL_60,2020-11-09,Sri Lanka,National Park Road,Moderate,Low,Car,0.710192837,0,235.8810029,1
