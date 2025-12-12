@@ -82,7 +82,7 @@ if not model:
     st.stop()
 
 # --- SIDEBAR ---
-st.sidebar.title("WanderLust AI")
+st.sidebar.title("Smart Tour Guide")
 nav = st.sidebar.radio("Navigation", [
     "Dashboard & Data Info", 
     "UNESCO Explorer", 
